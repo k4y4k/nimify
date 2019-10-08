@@ -1,3 +1,3 @@
-const reverse = require("./src/reverse");
+const reverse = require('./src/reverse');
 
 module.exports = reverse;
