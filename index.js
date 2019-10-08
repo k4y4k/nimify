@@ -1,5 +1,3 @@
-const wakeUp = () => {
-  return "I am awake";
-};
+const reverse = require('./src/reverse');
 
-module.exports = wakeUp;
+module.exports = reverse;
