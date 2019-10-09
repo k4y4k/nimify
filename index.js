@@ -1,3 +1,3 @@
 const transliterate = require('./src/transliterate');
 
-module.exports = transliterate;
+exports.nimify = (string) => transliterate(string);
