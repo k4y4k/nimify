@@ -1,3 +1,3 @@
-const reverse = require('./src/reverse');
+const transliterate = require('./src/transliterate');
 
-module.exports = reverse;
+module.exports = transliterate;
