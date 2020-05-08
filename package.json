@@ -5,7 +5,7 @@
   "author": "kayak <41324271+by-k4y4k@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "6.8.0",
+    "eslint": "7.0.0",
     "eslint-config-airbnb-base": "14.1.0",
     "eslint-plugin-import": "2.20.2",
     "eslint-plugin-jest": "23.9.0",
